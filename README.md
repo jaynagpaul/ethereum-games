@@ -1,5 +1,5 @@
 # Ethereum Games
-A collection of games that can be played on the Ethereum blockchain. You can discuss this project on [Ledger](https://joinledger.com), a cryptocurrency discord with a focus on tech over price. To contribute a game please fork this repository and submit a pull request. Thanks! Ξ
+A collection of games that can be played on the Ethereum blockchain. You can discuss this project on [Ledger](https://joinledger.com), a cryptocurrency discord with a focus on tech over price. To contribute a game please fork this repository and submit a pull request. Descriptions are taken directly from project pages. Thanks! Ξ
 
 Table Of Contents
 - [Crypto Kitties](#crypto-kitties)
@@ -9,6 +9,12 @@ Table Of Contents
 - [Ether Craft](#ether-craft)
 - [Etherization](#etherization)
 - [Eth Word Chain](#eth-word-chain)
+- [EthRPS](#ethrps)
+- [The Pyramid Game](#the-pyramid-game)
+- [Cryptopunks](#cryptopunks)
+- [Etheremon](#etheremon)
+- [Ether Rock](#ether-rock)
+- [Krypto War](#krypto-war)
 
 ## Crypto Kitties
 "In CryptoKitties, users collect and breed oh-so-adorable creatures that we call CryptoKitties! Each kitty has a unique genome that defines its appearance and traits. Players can breed their kitties to create new furry friends and unlock rare cattributes."
@@ -42,7 +48,39 @@ There are 3 units types and 5 building types."
 
 http://www.bspend.com/etherization
 
-# Eth Word Chain
+## Eth Word Chain
 "A decentralized twist on the classic car word game, help create the longest word building game ever!"
 
 http://ethwordchain.com/
+
+## EthRPS
+"EthRPS lets you play Rock, Paper, Scissors for Ether, and handles your money securely through the Ethereum blockchain"
+
+http://ethrps.com/about
+
+## The Pyramid Game
+"Spend some Ether to buy a block.
+Blocks at the bottom layer are 0.005 ETH. Blocks at each next layer are worth twice as much as the layer below.
+When someone places a block on top of yours, you'll get half their bet. So, when two blocks have been placed on top of yours, you've doubled your money!"
+
+http://pyramidgame.jesbus.com
+
+## Cryptopunks
+"What you see above are the 10,000 unique "CryptoPunks" in a map-like interface. No two are exactly alike, and each one of them can be officially owned by a single person on the Ethereum blockchain. Originally, they could be claimed for free by anybody with an Ethereum wallet, but all 10,000 were quickly claimed. Now they must be purchased from someone on the Ethereum marketplace contract. Via this market you can buy, bid on, and offer punks for sale."
+
+https://www.larvalabs.com/cryptopunks
+
+## Etheremon
+"Etheremon is a decentralized application built on the Ethereum network. It simulates a world of ether monsters (etheremon) where you can capture, trade and evolve etheremon to defeat others."
+
+https://www.etheremon.com/
+
+## Ether Rock
+"Ether Rock allows you to collect and trade virtual rocks, all in a slightly different shade of grey. Only 100 rocks will ever be available, and each new rock gets more and more expensive."
+
+https://www.etherrock.com
+
+## Krypto War
+"KryptoWar is the first war games based on the Ethereum Blockchain. With KryptoWar you can own one of the 100 armies that have been created for this Smart Contract (only one person in the world will be able to own its country). Featuring a marketplace, battles, factories, and schools."
+
+https://kryptowar.com/
