@@ -1,5 +1,9 @@
 # Ethereum Games
-A collection of games that can be played on the Ethereum blockchain. You can discuss this project on [Ledger](https://joinledger.com), a cryptocurrency discord with a focus on tech over price. To contribute a game please fork this repository and submit a pull request. Descriptions are taken directly from project pages. Thanks! Ξ
+A collection of games that can be played on the Ethereum blockchain. 
+
+You can discuss this project on [Ledger](https://joinledger.com), a cryptocurrency discord with a focus on tech over price.
+
+To contribute a game please fork this repository and submit a pull request. Descriptions are taken directly from project pages. Thanks! Ξ
 
 Table Of Contents
 - [Crypto Kitties](#crypto-kitties)
