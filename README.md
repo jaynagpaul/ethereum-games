@@ -19,6 +19,7 @@ Table Of Contents
 - [Etheremon](#etheremon)
 - [Ether Rock](#ether-rock)
 - [Krypto War](#krypto-war)
+- [Ethergarden](#ethergarden)
 
 ## Crypto Kitties
 "In CryptoKitties, users collect and breed oh-so-adorable creatures that we call CryptoKitties! Each kitty has a unique genome that defines its appearance and traits. Players can breed their kitties to create new furry friends and unlock rare cattributes."
@@ -88,3 +89,8 @@ When someone places a block on top of yours, you'll get half their bet. So, when
 "KryptoWar is the first war games based on the Ethereum Blockchain. With KryptoWar you can own one of the 100 armies that have been created for this Smart Contract (only one person in the world will be able to own its country). Featuring a marketplace, battles, factories, and schools."
 
 [Link](https://kryptowar.com/)
+
+## Ethergarden
+"Ethergarden is the first virtual garden on the Ethereum blockchain. Plant a tree, make it grow and be the tallest! In Ethergarden everybody can plant his tree (with a specific name and url) and water it to make it grow taller or cut other trees to make them shrink, by paying in ETH. However, growing is not the only way to gain more visibility: you can make your tree the tallest also by cutting the other trees in the garden!"
+
+[Link](https://ethergarden.io/)
