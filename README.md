@@ -6,6 +6,7 @@ You can discuss this project on [Ledger](https://joinledger.com), a cryptocurren
 To contribute a game please fork this repository and submit a pull request. Descriptions are taken directly from project pages. Thanks! Ξ
 
 Table Of Contents
+- [EtherStrike](#etherstrike)
 - [Crypto Kitties](#crypto-kitties)
 - [Ether Rockets](#ether-rockets)
 - [Crypto Pets](#crypto-pets)
@@ -20,6 +21,12 @@ Table Of Contents
 - [Ether Rock](#ether-rock)
 - [Krypto War](#krypto-war)
 - [Ethergarden](#ethergarden)
+
+
+## EtherStrike
+"EtherStrike is a game of strategy in which players go head-to-head in planetary battle as they attempt to conquer the crypto-universe. Like many predecessors, planets are collectible tokens which may be bought or sold; however, unlike games before it, EtherStrike planets are functional war machines! Use them to attack, or harvest their resources and sell them on the marketplace for ETH! Will you Own the Universe?"
+
+[Link](https://etherstrike.io)
 
 ## Crypto Kitties
 "In CryptoKitties, users collect and breed oh-so-adorable creatures that we call CryptoKitties! Each kitty has a unique genome that defines its appearance and traits. Players can breed their kitties to create new furry friends and unlock rare cattributes."
