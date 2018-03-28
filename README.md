@@ -20,6 +20,7 @@ Table Of Contents
 - [Ether Rock](#ether-rock)
 - [Krypto War](#krypto-war)
 - [Ethergarden](#ethergarden)
+- [EtherStrike](#etherstrike)
 
 ## Crypto Kitties
 "In CryptoKitties, users collect and breed oh-so-adorable creatures that we call CryptoKitties! Each kitty has a unique genome that defines its appearance and traits. Players can breed their kitties to create new furry friends and unlock rare cattributes."
@@ -94,3 +95,8 @@ When someone places a block on top of yours, you'll get half their bet. So, when
 "Ethergarden is the first virtual garden on the Ethereum blockchain. Plant a tree, make it grow and be the tallest! In Ethergarden everybody can plant his tree (with a specific name and url) and water it to make it grow taller or cut other trees to make them shrink, by paying in ETH. However, growing is not the only way to gain more visibility: you can make your tree the tallest also by cutting the other trees in the garden!"
 
 [Link](https://ethergarden.io/)
+
+## EtherStrike
+"EtherStrike is a game of strategy in which players go head-to-head in planetary battle as they attempt to conquer the crypto-universe. Like many predecessors, planets are collectible tokens which may be bought or sold; however, unlike games before it, EtherStrike planets are functional war machines! Use them to attack, or harvest their resources and sell them on the marketplace for ETH! Will you Own the Universe?"
+
+[Link](https://etherstrike.io)
