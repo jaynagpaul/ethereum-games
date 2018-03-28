@@ -19,6 +19,7 @@ Table Of Contents
 - [Krypto War](#krypto-war)
 - [Ethergarden](#ethergarden)
 - [EtherStrike](#etherstrike)
+- [Cryptocup](#cryptocup)
 
 ## Crypto Kitties
 "In CryptoKitties, users collect and breed oh-so-adorable creatures that we call CryptoKitties! Each kitty has a unique genome that defines its appearance and traits. Players can breed their kitties to create new furry friends and unlock rare cattributes."
@@ -98,3 +99,8 @@ When someone places a block on top of yours, you'll get half their bet. So, when
 "EtherStrike is a game of strategy in which players go head-to-head in planetary battle as they attempt to conquer the crypto-universe. Like many predecessors, planets are collectible tokens which may be bought or sold; however, unlike games before it, EtherStrike planets are functional war machines! Use them to attack, or harvest their resources and sell them on the marketplace for ETH! Will you Own the Universe?"
 
 [Link](https://etherstrike.io)
+
+## Cryptocup
+"Cryptocup is the world first World Futbol Championship betting system powered by the ethereum blockchain using erc-721 smart contracts, users predict the result of the 64 mathces of the Russia world and recive a token with their predictions. The token with best predictions wins the accumulative prize. This tokens can also be sold at their own market. 
+
+[Link](https://cryptocup.io)
