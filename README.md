@@ -1,7 +1,7 @@
 # Ethereum Games
 A collection of games that can be played on the Ethereum blockchain. 
 
-To contribute a game please fork this repository and submit a pull request. Descriptions are taken directly from project pages. Thanks! Ξ
+To contribute a game please fork this repository and submit a pull request. Descriptions are taken directly from project pages. To advertise your game to a growing audience of 10,000+ monthly unique viewers, email: hi AT jaynagpaul DOT com  Thanks! Ξ
 
 Table Of Contents
 - [Crypto Kitties](#crypto-kitties)
