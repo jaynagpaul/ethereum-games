@@ -22,7 +22,7 @@ Table Of Contents
 - [Ethergarden](#ethergarden)
 - [EtherStrike](#etherstrike)
 - [Cryptocup](#cryptocup)
-- [FairPonzi](#FairPonzi)
+- [FairPonzi](#fairponzi)
 
 ## Crypto Kitties
 "In CryptoKitties, users collect and breed oh-so-adorable creatures that we call CryptoKitties! Each kitty has a unique genome that defines its appearance and traits. Players can breed their kitties to create new furry friends and unlock rare cattributes."
