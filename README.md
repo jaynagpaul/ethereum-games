@@ -6,6 +6,7 @@ To contribute a game please fork this repository and submit a pull request. Desc
 Thanks! Ξ
 
 Table Of Contents
+- [Cryptocup](#cryptocup)
 - [Crypto Kitties](#crypto-kitties)
 - [Ether Rockets](#ether-rockets)
 - [Crypto Pets](#crypto-pets)
@@ -22,6 +23,11 @@ Table Of Contents
 - [Ethergarden](#ethergarden)
 - [EtherStrike](#etherstrike)
 - [Cryptocup](#cryptocup)
+
+## Cryptocup
+"Cryptocup is the world first World Futbol Championship betting system powered by the ethereum blockchain using erc-721 smart contracts, users predict the result of the 64 mathces of the Russia world and recive a token with their predictions. The token with best predictions wins the accumulative prize. This tokens can also be sold at their own market. 
+
+[Link](https://cryptocup.io)
 
 ## Crypto Kitties
 "In CryptoKitties, users collect and breed oh-so-adorable creatures that we call CryptoKitties! Each kitty has a unique genome that defines its appearance and traits. Players can breed their kitties to create new furry friends and unlock rare cattributes."
