@@ -6,6 +6,7 @@ To contribute a game please fork this repository and submit a pull request. Desc
 Thanks! Ξ
 
 Table Of Contents
+- [World of Ether](#world-of-ether)
 - [Crypto Kitties](#crypto-kitties)
 - [Ether Rockets](#ether-rockets)
 - [Crypto Pets](#crypto-pets)
@@ -22,6 +23,11 @@ Table Of Contents
 - [Ethergarden](#ethergarden)
 - [EtherStrike](#etherstrike)
 - [Cryptocup](#cryptocup)
+
+## World of Ether
+"Collect monsters. Breed them to make more. Sell and sire them for ETH. Battle them for experience. Level your player up to breed rarer and more powerful monsters. Get ERC20 in-game power ups to fuel monsters. Live now!"
+
+[Link](https://worldofether.com/)
 
 ## Crypto Kitties
 "In CryptoKitties, users collect and breed oh-so-adorable creatures that we call CryptoKitties! Each kitty has a unique genome that defines its appearance and traits. Players can breed their kitties to create new furry friends and unlock rare cattributes."
