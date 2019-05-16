@@ -9,6 +9,7 @@ Table Of Contents
 - [Crypto Kitties](#crypto-kitties)
 - [Ether Rockets](#ether-rockets)
 - [Crypto Pets](#crypto-pets)
+- [CryptantCrab](#cryptant-crab)
 - [Crypto Zombies](#crypto-zombies)
 - [Ether Craft](#ether-craft)
 - [Etherization](#etherization)
@@ -38,6 +39,12 @@ Table Of Contents
 CryptoPets are digital critters that are one-of-a-kind and one hundred percent owned by you; they cannot be replicated, taken away, or destroyed. Will feature an interactive ecosystem of mini games and districts for our pets to feed, breed, and compete."
 
 [Link](https://www.cryptopets.co/)
+
+## CryptantCrab
+
+"Crypto + Mutant + Crab makes CryptantCrab. This is a game where players collect and mutate their very own cryptant crabs to participate in tournaments and prize pool battles. Each crab is unique to the user, with 4 mutatable anatomy and varying stats/ elemental combinations affecting the outcome of each battle. Collect, mutate and battle for supremacy!"
+
+[Link](https://www.cryptantcrab.io/)
 
 ## Crypto Zombies
 "CryptoZombies is an interactive code school that teaches you to write smart contracts in Solidity through building your own crypto-collectables game. Features one new lesson each week, and the ability to battle other crypto zombies."
