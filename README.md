@@ -9,6 +9,7 @@ Table Of Contents
 - [Crypto Kitties](#crypto-kitties)
 - [Ether Rockets](#ether-rockets)
 - [Crypto Pets](#crypto-pets)
+- [CryptantCrab](#cryptantcrab)
 - [Crypto Zombies](#crypto-zombies)
 - [Ether Craft](#ether-craft)
 - [Etherization](#etherization)
