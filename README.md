@@ -39,6 +39,11 @@ CryptoPets are digital critters that are one-of-a-kind and one hundred percent o
 
 [Link](https://www.cryptopets.co/)
 
+## CryptoCrab
+"CryptantCrab is a Blockchain Game that features vibrant virtual Crabs that you collect, mutate and battle for supremacy! Each CryptantCrab is unique with its own heart that hides its strengths and can be mutated to get stronger with over a million combination of parts. As Crabs battle it out in each cycle of the Battle Arena for over 8 ETH worth of rewards, players can develop their crab’s strength towards the Pool Arenas where ETH prizes await!"
+
+[Link](https://cryptantcrab.io/)
+
 ## Crypto Zombies
 "CryptoZombies is an interactive code school that teaches you to write smart contracts in Solidity through building your own crypto-collectables game. Features one new lesson each week, and the ability to battle other crypto zombies."
 
